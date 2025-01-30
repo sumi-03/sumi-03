@@ -13,7 +13,7 @@
 ## 🎓 Education & Awards
 
 > *March 2022 – Present* <br>
-> - **B.Sc.** in **Computer Engineering**, **Hansung University** (Currently Enrolled)
+> - **B.Sc.** in **Computer Science & Engineering(CSE), Hansung University** (Currently Enrolled)
 
 > *2nd Semester, 2024* <br>
 > - Awarded the **Outstanding Hansung Competency Scholarship (30% tuition)** <br>
