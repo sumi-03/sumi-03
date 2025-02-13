@@ -48,11 +48,6 @@
 
 ## ✔️ My GitHub
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumi-03\&langs_count=5&layout=donut&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858) <br>
-![sumi-03's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumi-03\&rank_icon=github&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858&show_icons=true)
-<br>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green.svg)
 
 </div>
