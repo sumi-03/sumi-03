@@ -24,7 +24,7 @@
 
 ### ✨ 2025 CISCO Innovation Challenge
 - **Award Date:** April 29, 2025
-- **Honor:** [우리가 걸어갈 길 팀](https://github.com/HSU-ThePathWeAreGoingToWalk) **장려상** 수상
+- **Honor:** **장려상** 수상
 <img src="https://github.com/user-attachments/assets/c0a5227d-c982-47b4-84a8-5cd8ed386fad" height="300px">
 <img src="https://github.com/user-attachments/assets/219b1d33-a549-4e25-8f5a-8103c603ea07" height="300px">
 
