@@ -18,6 +18,14 @@
 - **Status:** Senior (4th year)
 - **Scholarship:** 2024학년도 1학기 **우수한성역량장학금** 수혜 (2024학년도 2학기 등록금 30% 감면)
 
+<br><br>
+
+## 🏆 Awards
+
+### ✨ 2025 CISCO Innovation Challenge
+- **Honor:** [우리가 걸어갈 길 팀](https://github.com/HSU-ThePathWeAreGoingToWalk) **장려상** 수상
+<img src="https://github.com/user-attachments/assets/c0a5227d-c982-47b4-84a8-5cd8ed386fad" height="350px">
+<img src="https://github.com/user-attachments/assets/219b1d33-a549-4e25-8f5a-8103c603ea07" height="350px">
 
 <br><br>
 
@@ -40,20 +48,21 @@
 - **Period:** 2024학년 2학기
 - **Role:** 프론트엔드 개발자
 - **Activities:** <br>
-  - 다양한 대학의 학생들과 팀 구성 후 해커톤 참가
-  - 학생 주도로 아이디어 제안, 기획, 디자인, 개발 전 과정을 수행
-  - 프론트엔드 개발 전반 참여 <br><br>
+  - 다양한 대학의 학생들과 팀 구성 후 해커톤 참가 <br>
+  - 학생 주도로 아이디어 제안, 기획, 디자인, 개발 전 과정을 수행 <br>
+  - 프론트엔드 개발 전반 참여 <br>
+  - [프로젝트 레포지토리](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_18_FE)  <br><br>
 
-
-### ✨ 2025 CISCO innovation challenge, Hosted by CISCO
+### ✨ 2025 CISCO Innovation Challenge, Hosted by CISCO
 - **Period:** 2024년 12월 ~ 2025년 4월
 - **Role:** 아이디어톤 및 해커톤 참가자
 - **Activities:** <br>
-  - 아이디어톤에 참여하여 프로젝트 제안서 기획 및 제출
-  - 아이디어가 선정된 DC&M 멤버와 다른 팀원들과 함께 25년 2월부터 4월까지 회의/개발 진행 및 해커톤 참가
-  - 선정된 아이디어를 바탕으로 팀과 협업하여 프로젝트 수행 <br><br>
-
-<br>
+  - 아이디어톤에 참여하여 프로젝트 제안서 기획 및 제출 <br>
+  - 아이디어가 선정된 DC&M 멤버와 다른 팀원들과 함께 25년 2월부터 4월까지 회의/개발 진행 및 해커톤 참가 <br>
+  - 선정된 아이디어를 바탕으로 팀과 협업하여 프로젝트 수행 <br>
+  - [프로젝트 레포지토리](https://github.com/HSU-ThePathWeAreGoingToWalk) <br>
+  - [프로젝트 시연 영상](https://www.youtube.com/watch?v=U0sf83A_tq0) <br>
+- **Honor:** **장려상** 수상 <br><br>
 
 ## ✔️ My GitHub
 
