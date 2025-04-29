@@ -10,26 +10,27 @@
 
 <div align="left"> 
 
-## 🎓 Education
-
+<details>
+<summary><h2>🎓 Education</h2></summary>
+ 
 ### ✨ Hansung University
 - **Period:** March 2022 – Present
 - **Degree:** B.Sc. in Computer Science & Engineering (CSE)
 - **Status:** Senior (4th year)
 - **Scholarship:** 2024학년도 1학기 **우수한성역량장학금** 수혜 (2024학년도 2학기 등록금 30% 감면)
-
-<br><br>
-
-## 🏆 Awards
+</details>
+<details>
+<summary><h2>🏆 Awards</h2></summary>
 
 ### ✨ 2025 CISCO Innovation Challenge
 - **Honor:** [우리가 걸어갈 길 팀](https://github.com/HSU-ThePathWeAreGoingToWalk) **장려상** 수상
 <img src="https://github.com/user-attachments/assets/c0a5227d-c982-47b4-84a8-5cd8ed386fad" height="300px">
 <img src="https://github.com/user-attachments/assets/219b1d33-a549-4e25-8f5a-8103c603ea07" height="300px">
 
-<br><br>
+</details>
+<details>
+<summary><h2>💻 Tech Learning & Development Activities</h2></summary>
 
-## 💻 Tech Learning & Development Activities
 ### ✨ 교내 정동아리 DC&M
 - **Period:** 2023년 1학기 ~ 현재
 - **Role:** 동아리원 (2023년 1학기 ~ 현재), 회장 (2024년 2학기 ~ 현재)
@@ -64,11 +65,13 @@
   - [프로젝트 시연 영상](https://www.youtube.com/watch?v=U0sf83A_tq0) <br>
 - **Honor:** **장려상** 수상 <br><br>
 
-## ✔️ My GitHub
+</details>
+<details>
+<summary><h2>✔️ My GitHub</h2></summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumi-03\&langs_count=5&layout=donut&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858) <br>
 ![sumi-03's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumi-03\&rank_icon=github&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858&show_icons=true)
-<br>
 
+</details>
 
 </div>
