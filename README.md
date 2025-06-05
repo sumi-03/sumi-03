@@ -15,9 +15,8 @@
  
 ### ✨ Hansung University
 - **Period:** March 2022 – Present
-- **Degree:** B.Sc. in Computer Science & Engineering (CSE)
-- **Status:** Senior (4th year)
-- **Scholarship:** 2024학년도 1학기 **우수한성역량장학금** 수혜 (2024학년도 2학기 등록금 30% 감면)
+- **Degree:** B.Sc. in Computer Science & Engineering
+- **Scholarship:** 2024학년도 1학기 **우수한성역량장학금** 수혜
 </details>
 <details>
 <summary><h2>🏆 Awards</h2></summary>
@@ -35,11 +34,10 @@
 
 ### ✨ 교내 정동아리 DC&M
 - **Period:** 2023년 1학기 ~ 현재
-- **Role:** 동아리원 (2023년 1학기 ~ 현재), 회장 (2024년 2학기 ~ 현재)
+- **Role:** 회장(2024년 2학기 ~ 현재), 동아리원(2023년 1학기 ~ 현재)
 - **Activities:** <br>
   - 전공 관련 스터디 세션 기획 및 참여 <br>
-  - 아이디어 공모전 및 해커톤 참가 <br>
-  - 동아리 운영 및 참여 독려 <br><br>
+  - 교외 아이디어 공모전 및 해커톤 참가 <br><br>
 
 ### ✨ 교내 학술소모임 POCS
 - **Period:** 2024년 2학기 ~ 현재
@@ -60,7 +58,6 @@
 - **Period:** 2024년 12월 ~ 2025년 4월
 - **Role:** 아이디어톤 및 해커톤 참가자
 - **Activities:** <br>
-  - 아이디어톤에 참여하여 프로젝트 제안서 기획 및 제출 <br>
   - 아이디어가 선정된 DC&M 멤버와 다른 팀원들과 함께 25년 2월부터 4월까지 회의/개발 진행 및 해커톤 참가 <br>
   - 선정된 아이디어를 바탕으로 팀과 협업하여 프로젝트 수행 <br>
   - [프로젝트 레포지토리](https://github.com/HSU-ThePathWeAreGoingToWalk) <br>
@@ -73,6 +70,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumi-03\&langs_count=5&layout=donut&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858) <br>
 ![sumi-03's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumi-03\&rank_icon=github&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858&show_icons=true)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sumi-03&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/sumi-03"
+  width="600"
+  height="300"
+/>
+</a>
 
 </details>
 
