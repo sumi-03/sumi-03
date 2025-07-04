@@ -16,7 +16,14 @@
 ### ✨ Hansung University
 - **Period:** March 2022 – Present
 - **Degree:** B.Sc. in Computer Science & Engineering
-- **Scholarship:** 2024학년도 1학기 **우수한성역량장학금** 수혜
+- **Scholarship:** 2024학년도 1학기 **우수한성역량장학금** 수혜 <br><br>
+
+### ✨ University of Minnesota Duluth - Summer Institute
+- **Period:** July 7 – August 1, 2025
+- **Program:** CAHSS Summer Institute 'Mosaic of Voices'
+- **Activities:**  
+  - 작성 예정
+  - 작성 예정
 </details>
 <details>
 <summary><h2>🏆 Awards</h2></summary>
