@@ -11,20 +11,20 @@
 <div align="left"> 
 
 <details>
-<summary><h2>🎓 Education</h2></summary>
+<summary><h2>🎓 Education & International Exchange</h2></summary>
  
 ### ✨ Hansung University
 - **Period:** March 2022 – Present
 - **Degree:** B.Sc. in Computer Science & Engineering
 - **Scholarship:** 2024학년도 1학기 **우수한성역량장학금** 수혜 <br><br>
 
-### ✨ University of Minnesota Duluth - Summer Institute
+### ✨ University of Minnesota Duluth
 - **Period:** July 7 – August 1, 2025
-- **Program:** CAHSS Summer Institute 'Mosaic of Voices'
+- **Program:** CAHSS Summer Institute ***Mosaic of Voices***
 - **Activities:**  
-  - 스토리텔링 중심 수업에 참여하며 미국 현지 및 다양한 국적의 참가자들과 영어로 협업 과제 수행
-  - 문화 교류 활동과 함께 다큐멘터리 영상을 공동 제작하고 지역 극장에서 상영
-  - 덜루스와 미네소타 북부 지역을 탐방하며 지역 고유의 자연과 문화를 체험
+  - 스토리텔링 기반 정규 수업 이수 (학점 인정)
+  - 미국 현지 대학생 및 다양한 국적의 참가자들과 영어 협업 과제 수행
+  - 문화 교류 활동 참여 및 다큐멘터리 영상 공동 기획·제작
 </details>
 <details>
 <summary><h2>🏆 Awards</h2></summary>
