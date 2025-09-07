@@ -44,15 +44,15 @@
 <summary><h2>💻 Tech Learning & Development Activities</h2></summary>
 
 ### ✨ 한성대학교 정동아리 DC&M
-- **Period:** 2023년 1학기 ~ 현재
-- **Role:** 회장 (2024년 2학기 ~ 현재), 동아리원 (2023년 1학기 ~ 현재)
+- **Period:** 2023년 1학기 – 현재
+- **Role:** 회장 (2024년 2학기 – 2025년 1학기), 동아리원 (2023년 1학기 – 현재)
 - **Contributions:** <br>
   - 동아리 운영 및 관리
   - 전공 관련 스터디 세션 기획 및 참여 <br>
   - 교외 공모전 및 해커톤 참여 독려 및 지원 <br><br>
 
 ### ✨ 한성대학교 학술소모임 POCS
-- **Period:** 2024년 2학기 ~ 현재
+- **Period:** 2024년 2학기 – 현재
 - **Role:** 소모임원
 - **Contributions:** <br>
   - 전공 이론 및 실습 중심 스터디 참여 <br><br>
@@ -66,7 +66,7 @@
   - [프로젝트 레포지토리](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_18_FE)  <br><br>
 
 ### ✨ 2025 CISCO Innovation Challenge, Hosted by CISCO
-- **Period:** 2024년 12월 ~ 2025년 4월
+- **Period:** 2024년 12월 – 2025년 4월
 - **Role:** 아이디어톤 및 해커톤 참가자
 - **Contributions:** <br>
   - 선정 아이디어를 기반으로 기획·설계 및 구현 협업 <br>
@@ -77,7 +77,7 @@
 - **Honor:** **장려상** 수상 <br><br>
 
 ### ✨ 2025 관광데이터 활용 공모전, Hosted by 한국관광공사 & Kakao
-- **Period:** 2025년 4월 ~ 2025년 11월
+- **Period:** 2025년 4월 – 2025년 11월
 - **Role:** 공모전 참가자 (팀장, 백엔드 개발)
 - **Contributions:** <br>
   - 선정 아이디어를 기반으로 기획·설계 및 구현 협업 <br>
