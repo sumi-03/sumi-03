@@ -1,8 +1,8 @@
 <div align="center"> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=585858&size=45&center=true&vCenter=true&width=1000&height=53&lines=%E3%80%80%E3%80%80+If+you+can+dream+it,+you+can+do+it.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Changa&color=585858&size=55&center=true&vCenter=true&width=1500&height=120&lines=%E3%80%80%E3%80%80+If+you+can+dream+it,+you+can+do+it.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Diphylleia&color=CD5C5C&size=60&center=true&vCenter=true&width=1000&height=53&lines=%E3%80%80%E3%80%80+Hi,+I'm+Sumi+Lim!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Changa&color=CD5C5C&size=100&center=true&vCenter=true&width=1500&height=140&lines=%E3%80%80%E3%80%80+Hi,+I'm+Sumi+Lim!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 </div>
 
