@@ -46,7 +46,7 @@
 ### ✨ 한성대학교 정동아리 DC&M
 - **Period:** 2023년 1학기 – 현재
 - **Role:** 회장 (2024년 2학기 – 2025년 1학기), 동아리원 (2023년 1학기 – 현재)
-- **Contributions:** <br>
+- **Descriptions:** <br>
   - 동아리 운영 및 관리
   - 전공 관련 스터디 세션 기획 및 참여 <br>
   - 교외 공모전 및 해커톤 참여 독려 및 지원 <br><br>
@@ -54,13 +54,13 @@
 ### ✨ 한성대학교 학술소모임 POCS
 - **Period:** 2024년 2학기 – 현재
 - **Role:** 소모임원
-- **Contributions:** <br>
+- **Descriptions:** <br>
   - 전공 이론 및 실습 중심 스터디 참여 <br><br>
 
 ### ✨ 9oormthonUNIV 3기, Hosted by Kakao & Goorm
 - **Period:** 2024학년 2학기
 - **Role:** 프론트엔드 미르미 (참가자)
-- **Contributions:** <br>
+- **Descriptions:** <br>
   - 다양한 대학의 다른 파트 (기획/디자인/프론트/백엔드) 학생들과 팀 구성 후 해커톤 참여 <br>
   - 프론트엔드 주요 기능 개발 및 UI 구현   <br>
   - [프로젝트 레포지토리](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_18_FE)  <br><br>
@@ -68,10 +68,8 @@
 ### ✨ 2025 CISCO Innovation Challenge, Hosted by CISCO
 - **Period:** 2024년 12월 – 2025년 4월
 - **Role:** 아이디어톤 및 해커톤 참가자
-- **Contributions:** <br>
+- **Descriptions:** <br>
   - 선정 아이디어를 기반으로 기획·설계 및 구현 협업 <br>
-  - 고흥 군청 웹 공지 크롤링/저장소 업데이트 API 개발
-  - Cisco 장비를 통한 관리자 호출/알림 기능 개발 <br>
   - [프로젝트 레포지토리](https://github.com/HSU-ThePathWeAreGoingToWalk) <br>
   - [프로젝트 시연 영상](https://www.youtube.com/watch?v=U0sf83A_tq0) <br>
 - **Honor:** **장려상** 수상 <br><br>
@@ -79,18 +77,14 @@
 ### ✨ 2025 관광데이터 활용 공모전, Hosted by 한국관광공사 & Kakao
 - **Period:** 2025년 4월 – 2025년 11월
 - **Role:** 공모전 참가자 (팀장, 백엔드 개발)
-- **Contributions:** <br>
+- **Descriptions:** <br>
   - 선정 아이디어를 기반으로 기획·설계 및 구현 협업 <br>
-  - 장소 및 루트 관련 API 개발
-  - AI 기반 추천 루트 생성 API 개발 (GPT + Tmap 연동) <br>
-  - 루트 시작 시 현재 위치 기반 구간별 대중교통 단계별 길찾기 API 개발 <br>
-  - TourAPI 연동으로 연계 관광지 정보 DB 업데이트 및 제공 <br>
   - [프로젝트 레포지토리](https://github.com/HSU-MEY) <br><br>
 
 ### ✨ 한성대학교 웹프로그래밍 기초 교과목 실습 조교
 - **Period:** 2025년 2학기
 - **Role:** 실습 조교
-- **Contributions:** <br>
+- **Descriptions:** <br>
   - 수강생 질의 응답 지원 (이메일)
   - 강의 시간 중 실습 문제 풀이 진행
 
