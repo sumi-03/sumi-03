@@ -10,99 +10,53 @@
 
 <div align="left"> 
 
-<details>
-<summary><h2>🎓 Education & International Exchange</h2></summary>
+### 🎓 Education & International Exchange
+- [2022.03 ~ Present] **B.Sc. in Computer Science & Engineering, Hansung University**
+- [2025.07 ~ 2025.08] **CAHSS Summer Institute *Mosaic of Voices*, University of Minnesota Duluth (USA)**
+
+<br>
+
+### 🏆 Scholarship & Awards  
+- [2024-2] **우수한성역량장학금, 30% Tuition Reduction, Hansung University** 
+- [2024.04] **2025 Cisco Innovation Challenge, 장려상, Cisco Korea**
+
+<br>
+
+### 💻 Technical & Extracurricular Activities
+- [2023-1 ~ Present] **한성대학교 정동아리 'DC&M' — President (2024-2 ~ 2025-1)**  
+  동아리 운영 및 전공 스터디 세션 기획, 교외 공모전 참여 독려 및 지원
+
+- [2024-2 ~ Present] **한성대학교 학술소모임 'POCS' — Member**  
+  전공 이론 및 실습 중심의 스터디 참여
+
+- [2024-2] **9oormthonUNIV 3rd (Kakao & Goorm) — Participant (Frontend)**  
+  🔗 [치매 예방 기억력 증진 플랫폼](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_18_FE) / 전국 대학 IT 연합동아리
+
+- [2025.02 ~ 2025.04] **2025 Cisco Innovation Challenge (Cisco Korea) — Participant (Backend)**  
+  🔗 [Cisco 솔루션 기반 스마트 버스정류장 시스템](https://github.com/HSU-ThePathWeAreGoingToWalk)
+
+- [2025.07 ~ 2025.09] **2025 관광데이터 활용 공모전 (KTO & Kakao) — Participant (Leader & Backend)**  
+  🔗 [K-팝·K-드라마·K-뷰티 테마 기반 맞춤 여행 경로 자동 생성 및 다국어 AI 가이드 제공 플랫폼](https://github.com/HSU-MEY)
+
+- [2025-2] **한성대학교 '웹프로그래밍 기초' 교과목 — Teaching Assistant**  
+  실습시간에 HTML·CSS·JavaScript 개념 설명 및 문제 풀이 진행, 수업 외 시간대 이메일 질의응답 지원
+  
+</div>
+
+<br><br>
+
+<div align="center">
  
-### ✨ Hansung University
-- **Period:** March 2022 – Present
-- **Degree:** B.Sc. in Computer Science & Engineering
-- **Scholarship:** 2024학년도 1학기 **우수한성역량장학금** 수혜 <br><br>
-
-### ✨ University of Minnesota Duluth
-- **Period:** July 7 – August 1, 2025
-- **Program:** CAHSS Summer Institute ***Mosaic of Voices***
-- **Activities:**  
-  - 스토리텔링 기반 정규 수업 이수 (학점 인정)
-  - 미국 현지 대학생 및 다양한 국적의 참가자들과 영어 협업 과제 수행
-  - 문화 교류 활동 참여 및 다큐멘터리 영상 공동 기획·제작
-</details>
-<details>
-<summary><h2>🏆 Awards</h2></summary>
-
-### ✨ 2025 CISCO Innovation Challenge
-- **Award Date:** April 29, 2025
-- **Honor:** **장려상** 수상
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: 1px solid #ccc;"><img src="https://github.com/user-attachments/assets/a53218ea-b158-4554-b53c-66f9edbec1d1" style="height: 200px; object-fit: contain;"></td>
-    <td style="border: 1px solid #ccc;"><img src="https://github.com/user-attachments/assets/c0a5227d-c982-47b4-84a8-5cd8ed386fad" style="height: 200px; object-fit: contain;"></td>
-    <td style="border: 1px solid #ccc;"><img src="https://github.com/user-attachments/assets/219b1d33-a549-4e25-8f5a-8103c603ea07" style="height: 200px; object-fit: contain;"></td>
-  </tr>
-</table>
-</details>
-<details>
-<summary><h2>💻 Tech Learning & Development Activities</h2></summary>
-
-### ✨ 한성대학교 정동아리 DC&M
-- **Period:** 2023년 1학기 – 현재
-- **Role:** 회장 (2024년 2학기 – 2025년 1학기), 동아리원 (2023년 1학기 – 현재)
-- **Descriptions:** <br>
-  - 동아리 운영 및 관리
-  - 전공 관련 스터디 세션 기획 및 참여 <br>
-  - 교외 공모전 및 해커톤 참여 독려 및 지원 <br><br>
-
-### ✨ 한성대학교 학술소모임 POCS
-- **Period:** 2024년 2학기 – 현재
-- **Role:** 소모임원
-- **Descriptions:** <br>
-  - 전공 이론 및 실습 중심 스터디 참여 <br><br>
-
-### ✨ 9oormthonUNIV 3기, Hosted by Kakao & Goorm
-- **Period:** 2024학년 2학기
-- **Role:** 프론트엔드 미르미 (참가자)
-- **Descriptions:** <br>
-  - 다양한 대학의 다른 파트 (기획/디자인/프론트/백엔드) 학생들과 팀 구성 후 해커톤 참여 <br>
-  - 프론트엔드 주요 기능 개발 및 UI 구현   <br>
-  - [프로젝트 레포지토리](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_18_FE)  <br><br>
-
-### ✨ 2025 CISCO Innovation Challenge, Hosted by CISCO
-- **Period:** 2024년 12월 – 2025년 4월
-- **Role:** 아이디어톤 및 해커톤 참가자
-- **Descriptions:** <br>
-  - 선정 아이디어를 기반으로 기획·설계 및 구현 협업 <br>
-  - [프로젝트 레포지토리](https://github.com/HSU-ThePathWeAreGoingToWalk) <br>
-  - [프로젝트 시연 영상](https://www.youtube.com/watch?v=U0sf83A_tq0) <br>
-- **Honor:** **장려상** 수상 <br><br>
-
-### ✨ 2025 관광데이터 활용 공모전, Hosted by 한국관광공사 & Kakao
-- **Period:** 2025년 4월 – 2025년 11월
-- **Role:** 공모전 참가자 (팀장, 백엔드 개발)
-- **Descriptions:** <br>
-  - 선정 아이디어를 기반으로 기획·설계 및 구현 협업 <br>
-  - [프로젝트 레포지토리](https://github.com/HSU-MEY) <br><br>
-
-### ✨ 한성대학교 웹프로그래밍 기초 교과목 실습 조교
-- **Period:** 2025년 2학기
-- **Role:** 실습 조교
-- **Descriptions:** <br>
-  - 수강생 질의 응답 지원 (이메일)
-  - 강의 시간 중 실습 문제 풀이 진행
-
-</details>
-<details>
-<summary><h2>✔️ My GitHub</h2></summary>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumi-03\&langs_count=5&layout=donut&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858) <br>
-![sumi-03's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumi-03\&rank_icon=github&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858&show_icons=true)
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sumi-03&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/sumi-03"
-  width="600"
-  height="300"
-/>
-</a>
-
-</details>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumi-03&langs_count=5&layout=donut&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858" 
+    width="370" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sumi-03&rank_icon=github&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858&show_icons=true" 
+    width="450" />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sumi-03&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/sumi-03"
+    width="600"
+    height="300" />
+    
 </div>
