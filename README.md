@@ -50,13 +50,8 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumi-03&langs_count=5&layout=donut&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858" 
     width="370" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sumi-03&rank_icon=github&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858&show_icons=true" 
-    width="450" />
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sumi-03&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/sumi-03"
-    width="600"
-    height="300" />
     
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sumi-03&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/sumi-03" width="600" height="300"/>
+  </a>
 </div>
