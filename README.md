@@ -13,12 +13,26 @@
 ### 🎓 Education & International Exchange
 - [2022.03 ~ Present] **B.Sc. in Computer Science & Engineering, Hansung University**
 - [2025.07 ~ 2025.08] **CAHSS Summer Institute *Mosaic of Voices*, University of Minnesota Duluth (USA)**
+  <details>
+    <summary>📜</summary>
+    <p align="center">
+      <img height="400" src="https://github.com/user-attachments/assets/c7a46c58-bb7b-472b-9224-8022e5d408bc" />
+      <img height="400" src="https://github.com/user-attachments/assets/9e6041cf-c577-4d9b-b07e-8e3fda6235c8" />
+    </p>
+  </details>
 
 <br>
 
 ### 🏆 Scholarship & Awards  
-- [2024-2] **우수한성역량장학금, 30% Tuition Reduction, Hansung University** 
-- [2024.04] **2025 Cisco Innovation Challenge, 장려상, Cisco Korea**
+- [2024-2] **우수한성역량장학금, 30% Tuition Reduction, Hansung University**
+- [2025.04] **2025 Cisco Innovation Challenge, 장려상, Cisco Korea**
+  <details>
+    <summary>🏅</summary>
+    <p align="center">
+      <img height="280" src="https://github.com/user-attachments/assets/264b1287-68f5-46df-91aa-728bf74ec071" />
+      <img height="280" src="https://github.com/user-attachments/assets/ad8ea36c-2792-4f64-b32f-5cf71d47a3a6" />
+    </p>
+  </details>
 
 <br>
 
@@ -29,8 +43,14 @@
 - [2024-2 ~ Present] **한성대학교 학술소모임 'POCS' — Member**  
   전공 이론 및 실습 중심의 스터디 참여
 
-- [2024-2] **9oormthonUNIV 3rd (Kakao & Goorm) — Participant (Frontend)**  
+- [2024.09 ~ 2025.01] **9oormthonUNIV 3rd (Kakao & Goorm) — Participant (Frontend)**  
   🔗 [치매 예방 기억력 증진 플랫폼](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_18_FE) / 전국 대학 IT 연합동아리
+  <details>
+    <summary>📜</summary>
+    <p align="center">
+      <img height="400" src="https://github.com/user-attachments/assets/58a5895f-880e-4944-aba6-4af38d1213a0" />
+    </p>
+  </details>
 
 - [2025.02 ~ 2025.04] **2025 Cisco Innovation Challenge (Cisco Korea) — Participant (Backend)**  
   🔗 [Cisco 솔루션 기반 스마트 버스정류장 시스템](https://github.com/HSU-ThePathWeAreGoingToWalk)
@@ -39,18 +59,23 @@
   🔗 [K-팝·K-드라마·K-뷰티 테마 기반 맞춤 여행 경로 자동 생성 및 다국어 AI 가이드 제공 플랫폼](https://github.com/HSU-MEY)
 
 - [2025-2] **한성대학교 '웹프로그래밍 기초' 교과목 — Teaching Assistant**  
-  실습시간에 HTML·CSS·JavaScript 개념 설명 및 문제 풀이 진행, 수업 외 시간대 이메일 질의응답 지원
+  수업시간 중 실습시간에 HTML·CSS·JavaScript 개념 설명 및 문제 풀이 진행, 수업 외 시간대 이메일 질의응답 지원
+  <details>
+    <summary>👩‍🏫</summary>
+    <p align="center">
+      <img height="400" src="https://github.com/user-attachments/assets/53b7de2a-aa6b-472e-9b8c-2d41f117744b" />
+
+    </p>
+  </details>
   
 </div>
 
 <br><br>
 
 <div align="center">
- 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumi-03&langs_count=5&layout=donut&bg_color=ededed&icon_color=cd5c5c&text_color=000000&title_color=585858" 
-    width="370" />
-    
+
+ <img height="140" src="https://github.com/user-attachments/assets/3a7b24f6-ff68-4a91-8629-531a008f01eb" />
+
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sumi-03&utm_content=farm">
   <img src="https://render.gitanimals.org/farms/sumi-03" width="600" height="300"/>
   </a>
