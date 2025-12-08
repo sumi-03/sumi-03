@@ -11,8 +11,8 @@
 <div align="left"> 
 
 ### 🎓 Education & International Exchange
-- [2022.03 ~ Present] **B.Sc. in Computer Science & Engineering, Hansung University**
-- [2025.07 ~ 2025.08] **CAHSS Summer Institute *Mosaic of Voices*, University of Minnesota Duluth (USA)**
+- [2022.03 ~ Present] **B.Sc. in Computer Science & Engineering, Hansung University** (Seoul, South Korea)
+- [2025.07 ~ 2025.08] **CAHSS Summer Institute *Mosaic of Voices*, University of Minnesota Duluth** (Minnesota, USA)
   <details>
     <summary>📜</summary>
     <p align="center">
@@ -24,6 +24,13 @@
 <br>
 
 ### 🏆 Scholarship & Awards  
+- [2023.02] **2023 Winter Programming Camp Competition, Prize Award (₩100,000), Hansung University Dept. of CSE**  
+  <details>
+    <summary>🏅</summary>
+    <p align="center">
+      <img height="250" src="https://github.com/user-attachments/assets/0ec779fd-1ea3-4eef-9ad7-67e3df430291" />
+    </p>
+  </details>
 - [2024-2] **우수한성역량장학금, 30% Tuition Reduction, Hansung University**
 - [2025.04] **2025 Cisco Innovation Challenge, 장려상, Cisco Korea**
   <details>
@@ -37,14 +44,14 @@
 <br>
 
 ### 💻 Technical & Extracurricular Activities
-- [2023-1 ~ Present] **한성대학교 정동아리 'DC&M' — President (2024-2 ~ 2025-1)**  
-  동아리 운영 총괄 및 신입 부원 면접 주관, 전공 스터디 세션 기획과 교외 공모전 참여 독려·지원
+- [2023-1 ~ Present] **한성대학교 중앙 학술분과 정동아리 'DC&M' — President (2024-2 ~ 2025-1)**  
+  `동아리 운영 총괄 및 신입 부원 면접 주관, 전공 스터디 세션 기획과 교외 공모전 참여 독려·지원`
 
-- [2024-2 ~ Present] **한성대학교 학술소모임 'POCS' — Member**  
-  전공 이론 및 실습 중심의 스터디 참여
+- [2024-2 ~ Present] **한성대학교 컴퓨터공학부 학술소모임 'POCS' — Member**  
+  `전공 이론 및 실습 중심의 스터디 참여`
 
-- [2024.09 ~ 2025.01] **9oormthonUNIV 3rd (Kakao & Goorm) — Participant (Frontend)**  
-  🔗 [치매 예방 기억력 증진 플랫폼](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_18_FE) / 전국 대학 IT 연합동아리
+- [2024.09 ~ 2025.01] **전국 대학 IT 연합동아리 9oormthonUNIV 3기 (Kakao & Goorm) — Participant (Frontend)**  
+  🔗 [치매 예방 기억력 증진 플랫폼](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_18_FE)  
   <details>
     <summary>📜</summary>
     <p align="center">
@@ -56,10 +63,12 @@
   🔗 [Cisco 솔루션 기반 스마트 버스정류장 시스템](https://github.com/HSU-ThePathWeAreGoingToWalk)
 
 - [2025.07 ~ 2025.09] **2025 관광데이터 활용 공모전 (KTO & Kakao) — Participant (Leader & Backend)**  
-  🔗 [K-팝·K-드라마·K-뷰티 테마 기반 맞춤 여행 경로 자동 생성 및 다국어 AI 가이드 제공 플랫폼](https://github.com/HSU-MEY)
+  🔗 [K-팝·K-드라마·K-뷰티 테마 기반 맞춤 여행 경로 자동 생성 및 다국어 AI 가이드 제공 플랫폼](https://github.com/HSU-MEY)  
+  🚀 [원스토어 앱 출시](https://m.onestore.co.kr/v2/ko-kr/app/0001002337)
 
-- [2025-2] **한성대학교 '웹프로그래밍 기초' 교과목 — Teaching Assistant**  
-  수업시간 중 실습시간에 HTML·CSS·JavaScript 개념 설명 및 문제 풀이 진행, 수업 외 시간대 이메일 질의응답 지원
+- [2025-2] **한성대학교 컴퓨터공학부 전공 기초 교과목 조교 — Teaching Assistant**  
+  `2025년 2학기 한성대학교 컴퓨터공학부 웹프로그래밍 기초 교과목 N분반 교육조교/실습조교`  
+  `수업시간 중 실습시간에 HTML·CSS·JavaScript 개념 설명 및 문제 풀이 진행, 수업 외 시간대 이메일 질의응답 지원`
   <details>
     <summary>👩‍🏫</summary>
     <p align="center">
