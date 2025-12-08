@@ -24,22 +24,27 @@
 <br>
 
 ### 🏆 Scholarship & Awards  
-- [2023.02] **2023 Winter Programming Camp Competition, Prize Award (₩100,000), Hansung University Dept. of CSE**  
-  <details>
-    <summary>🏅</summary>
-    <p align="center">
-      <img height="250" src="https://github.com/user-attachments/assets/0ec779fd-1ea3-4eef-9ad7-67e3df430291" />
-    </p>
-  </details>
-- [2024-2] **우수한성역량장학금, 30% Tuition Reduction, Hansung University**
-- [2025.04] **2025 Cisco Innovation Challenge, 장려상, Cisco Korea**
-  <details>
-    <summary>🏅</summary>
-    <p align="center">
-      <img height="250" src="https://github.com/user-attachments/assets/264b1287-68f5-46df-91aa-728bf74ec071" />
-      <img height="250" src="https://github.com/user-attachments/assets/ad8ea36c-2792-4f64-b32f-5cf71d47a3a6" />
-    </p>
-  </details>
+<details>
+  <summary>[2023.03] <strong>2023 Winter Programming Camp Competition, Prize Award (₩100,000), Hansung University Dept. of CSE</strong> </summary>
+  <p align="center">
+    <img height="250" src="https://github.com/user-attachments/assets/0ec779fd-1ea3-4eef-9ad7-67e3df430291" />
+  </p>
+</details>
+
+<details>
+  <summary>[2024-2] <strong>우수한성역량장학금, 30% Tuition Reduction, Hansung University</strong> </summary>
+  <p align="center">
+    <img height="350" src="https://github.com/user-attachments/assets/acc7b166-27c7-4088-ac7e-3158600ed774" />
+  </p>
+</details>
+
+<details>
+  <summary>[2025.04] <strong>2025 Cisco Innovation Challenge, 장려상, Cisco Korea</strong></summary>
+  <p align="center">
+    <img height="250" src="https://github.com/user-attachments/assets/264b1287-68f5-46df-91aa-728bf74ec071" />
+    <img height="250" src="https://github.com/user-attachments/assets/ad8ea36c-2792-4f64-b32f-5cf71d47a3a6" />
+  </p> 
+</details>
 
 <br>
 
@@ -55,7 +60,7 @@
   <details>
     <summary>📜</summary>
     <p align="center">
-      <img height="400" src="https://github.com/user-attachments/assets/58a5895f-880e-4944-aba6-4af38d1213a0" />
+      <img height="380" src="https://github.com/user-attachments/assets/58a5895f-880e-4944-aba6-4af38d1213a0" />
     </p>
   </details>
 
