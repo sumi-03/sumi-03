@@ -33,9 +33,6 @@
 
 <details>
   <summary>[2024-2] <strong>우수한성역량장학금, 30% Tuition Reduction, Hansung University</strong> </summary>
-  <p align="center">
-    <img height="350" src="https://github.com/user-attachments/assets/acc7b166-27c7-4088-ac7e-3158600ed774" />
-  </p>
 </details>
 
 <details>
