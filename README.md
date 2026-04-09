@@ -31,9 +31,9 @@
 <br>
 
 ### 💻 Technical & Extracurricular Activities
-- [2023-1학기 ~ 2026-1학기] **한성대학교 중앙 학술분과 정동아리 'DC&M' — President (2024-2학기 ~ 2025-1학기)**  
+- [2023-1학기 ~ 2025-2학기] **한성대학교 중앙 학술분과 정동아리 'DC&M' — President (2024-2학기 ~ 2025-1학기)**  
 
-- [2024-2학기 ~ 2026-1학기] **한성대학교 컴퓨터공학부 학술소모임 'POCS' — Member**  
+- [2024-2학기 ~ 2025-2학기] **한성대학교 컴퓨터공학부 학술소모임 'POCS' — Member**  
 
 - [2024.09 ~ 2025.01] **전국 대학 IT 연합동아리 9oormthonUNIV 3기 (Kakao & Goorm) — Participant (Frontend)**  
 
