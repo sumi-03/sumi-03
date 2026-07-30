@@ -13,13 +13,14 @@
 ### 🎓 Education & International Exchange
 - [2022.03 ~ 2026.02] **B.Sc. in Computer Science & Engineering, Hansung University** (Seoul, South Korea)
 - [2025.07 ~ 2025.08] **2025 IPS Summer Institute, University of Minnesota Duluth** (Minnesota, USA)
+- [2026.07 ~ 2026.12] **Hyundai AutoEver Mobility SW School – Cloud Track (4th Cohort)** (Seoul, South Korea)
 
 <br>
 
 ### 🏆 Scholarship & Awards  
 - [2023.03] **2023 Winter Programming Camp Competition, Prize Award (₩100,000), Hansung University Dept. of CSE**
 - [2024-2학기] **우수한성역량장학금, 30% Tuition Reduction, Hansung University**
-- [2025.04] **2025 Cisco Innovation Challenge, 장려상, Cisco Korea**
+- [2025.04] **2025 Cisco Innovation Challenge, 장려상 (Honorable Mention), Cisco Korea**
   <details>
     <summary>📜</summary>
     <p align="center">
@@ -35,9 +36,9 @@
 
 - [2024-2학기 ~ 2025-2학기] **한성대학교 컴퓨터공학부 학술소모임 'POCS' — Member**  
 
-- [2024.09 ~ 2025.01] **전국 대학 IT 연합동아리 9oormthonUNIV 3기 (Kakao & Goorm) — Participant (Frontend)**  
+- [2024-2학기] **전국 대학 IT 연합동아리 9oormthonUNIV 3기 (Kakao & Goorm) — Participant (Frontend)**  
 
-- [2025-2학기] **한성대학교 컴퓨터공학부 전공 기초 교과목 조교 — Teaching Assistant**  
+- [2025-2학기] **한성대학교 컴퓨터공학부 전공 기초 교과목 '웹 프로그래밍 기초' 조교 — Teaching Assistant**  
   
 <br>
 
