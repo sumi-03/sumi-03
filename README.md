@@ -43,8 +43,13 @@
 <br>
 
 ### 💫 Projects & [Portfolio](https://topaz-minute-329.notion.site/sumi)
+- [2026.10 ~ 2026.12] **현대오토에버 모빌리티 SW 스쿨 4기 클라우드 - 최종 프로젝트 (개인 프로젝트)**  
+   🔗 [**LaneShift: 온프레미스와 퍼블릭 클라우드를 하나의 리전처럼 운영하는 커넥티드카 서비스(CCS) 하이브리드 플랫폼**](https://github.com/sumi-03/LaneShift)
 
-- [2026.08 ~ 2026.09] **안정성과 확장성을 고려한 티켓 예매 시스템, 개인 프로젝트**  
+- [2026.10 ~ 2026.10] **현대오토에버 모빌리티 SW 스쿨 4기 클라우드 - DevOps 프로젝트**  
+    🔗 [**SDF Private Cloud Platform: 끊겨도 수집하고, 틀리면 되돌리고, AI가 진단하는 Kubernetes 기반 스마트 팩토리 플랫폼**](https://gitlab.com/devops-team-5)
+
+- [2026.08 ~ 2026.09] **안정성과 확장성을 고려한 티켓 예매 시스템 (개인 프로젝트)**  
     🔗 [**EventFlow: 동시 예매 정합성과 트래픽 급증 대응을 다루고, 대기열·오토스케일링과 IaC·ECS·CI/CD 기반 AWS 인프라를 구축한 프로젝트**](https://github.com/sumi-03/EventFlow)
 
 - [2026.02 ~ 2026.02] **제4회 2026 블레이버스 MVP 개발 해커톤** (어치브모먼트(Blaybus))  
@@ -62,7 +67,7 @@
     🔗 [**오늘 어디 가시나요?: Cisco 솔루션 기반 스마트 버스정류장 시스템**](https://github.com/HSU-ThePathWeAreGoingToWalk)  
     🎥 [**시연 영상**](https://www.youtube.com/watch?v=U0sf83A_tq0)
 
-- [2024.11] **9oormthonUNIV 3기 중앙 해커톤 단풍톤** (Kakao & Goorm)  
+- [2024.11 ~ 2024.11] **9oormthonUNIV 3기 중앙 해커톤 단풍톤** (Kakao & Goorm)  
     🔗 [**기억의 나무: 치매 예방 기억력 증진 플랫폼**](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_18_FE)
   
 - [2024.09 ~ 2024.11] **다우기술 기업연계 SW프리캡스톤디자인, 한성SW중심대학 페스티벌 참여** (한성대학교)  
