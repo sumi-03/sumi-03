@@ -42,7 +42,7 @@
   
 <br>
 
-### 💫 Projects & [Portfolio](https://topaz-minute-329.notion.site/sumi)
+### 💫 Projects
 - [2026.10 ~ 2026.12] **현대오토에버 모빌리티 SW 스쿨 4기 클라우드 - 최종 프로젝트 (개인 프로젝트)**  
    🔗 [**LaneShift: 온프레미스와 퍼블릭 클라우드를 하나의 리전처럼 운영하는 커넥티드카 서비스(CCS) 하이브리드 플랫폼**](https://github.com/sumi-03/LaneShift)
 
