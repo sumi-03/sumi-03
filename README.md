@@ -44,7 +44,7 @@
 
 ### 💫 Projects
 - [2026.10 ~ 2026.12] **현대오토에버 모빌리티 SW 스쿨 4기 클라우드 - 최종 프로젝트 (개인 프로젝트)**  
-   🔗 [**LaneShift: 온프레미스와 퍼블릭 클라우드를 하나의 리전처럼 운영하는 커넥티드카 서비스(CCS) 하이브리드 플랫폼**](https://github.com/sumi-03/LaneShift)
+   🔗 [**LaneShift: 온프레미스와 퍼블릭 클라우드를 하나로 묶고 서비스 리전을 무손실 이전하는 커넥티드카 서비스(CCS) 하이브리드 플랫폼**](https://github.com/sumi-03/LaneShift)
 
 - [2026.10 ~ 2026.10] **현대오토에버 모빌리티 SW 스쿨 4기 클라우드 - DevOps 프로젝트**  
     🔗 [**SDF Private Cloud Platform: 끊겨도 수집하고, 틀리면 되돌리고, AI가 진단하는 Kubernetes 기반 스마트 팩토리 플랫폼**](https://gitlab.com/devops-team-5)
